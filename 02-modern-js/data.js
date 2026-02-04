@@ -97,4 +97,4 @@ export function createBookSummary(book) {
 
     return `${title} by ${author} (${year}) - ${statusText}`;
 }
-     // Destructure book properties and create formatted summary
+
